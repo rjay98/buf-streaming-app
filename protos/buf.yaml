@@ -1,0 +1,8 @@
+version: v1
+name: buf.build/ryanjiang98/greeterapis
+lint:
+  use:
+    - DEFAULT
+breaking:
+  use:
+    - FILE
